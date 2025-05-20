@@ -67,7 +67,7 @@ public:
 
     bool isEmpty()
     {
-        return top = NULL;
+        return top == NULL;
     }
 
 };
