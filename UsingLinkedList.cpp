@@ -128,5 +128,6 @@ int main ()
             cout << "Invalid Choice. Try again." <<endl;
             break;
         }
+        cout << endl;
     }
 }
